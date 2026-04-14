@@ -44,7 +44,7 @@ It integrates cleaned data from the Silver layer to build **fact and dimension t
 ## 🖼️ Architecture Diagram
 
 <p align="center">
-  <img src="" width="900"/>
+  <img src="https://github.com/mohdsahil00736/sql_data_warehouse_project/blob/main/docs/Datawarehouse_Gold_layer.png" width="900"/>
 </p>
 
 ---
