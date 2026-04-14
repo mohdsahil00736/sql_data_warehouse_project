@@ -5,6 +5,13 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ---
 
+<p align="center">
+  <img src="https://github.com/mohdsahil00736/sql_data_warehouse_project/blob/main/docs/data_architecture.png" width="900"/>
+</p>
+
+---
+
+
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
